@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Contribuições.
+
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnicolino&hide=html&layout=compact&theme=cobalt" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnicolino&count_private=true&hide=html&layout=compact&theme=cobalt" /></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=rnicolino&theme=cobalt" /></td>
   </tr>  
 </table>
